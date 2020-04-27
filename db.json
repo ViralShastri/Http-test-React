@@ -1,13 +1,11 @@
-
 {
   "posts": [
     {
-      "id": "1",
-      "title": "hello",
-      "body": "Temp",
-      "author": "Max"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
     "name": "typicode"
   }
+}
